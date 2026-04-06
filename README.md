@@ -6,7 +6,7 @@ This project utilizes the Toubia et. al. (2025) 2K-500 dataset to explore variou
 
 ## Notebooks
 
-* [Behavioral Economics Exercise](https://github/samdvey/MKTG6203DigitalTwins/blob/main/(1)_behavioral_economics_digital_twin_exercises.ipynb)
+* [Behavioral Economics Exercise]((1)_behavioral_economics_digital_twin_exercises.ipynb)
 * [Dataset Exploration](https://nbviewer.org/github/samdvey/MKTG6203DigitalTwins/blob/main/%282%29_Week6_DatasetExploration.ipynb)
 
 ## Dataset
