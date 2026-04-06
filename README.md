@@ -21,4 +21,4 @@ The goal of this project is to analyze behavioral biases using the 2k-500 datase
 ## Author
 
 Angie Pantuosco, Samantha Davey, Joseph Pancras
-MKTG 6203 – Digital Twins
+MKTG 6203 – Digital Twin Project
